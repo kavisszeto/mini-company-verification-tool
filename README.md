@@ -1,4 +1,4 @@
-# Mini Company Verification Tool (KYB)
+# Mini Company Verification Tool – UK KYB Checker
 
 A Python web application that verifies UK-registered companies using public government data and flags basic risk signals. Users enter a Companies House company number, and the system retrieves the company's registration details, validates its registered office postcode, and highlights potential risks through a simple web interface.
 
